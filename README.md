@@ -9,3 +9,5 @@
 ## 4 - Count Occurences
 
 ## 5 - Find Max Number
+
+## 6 - Title Case
