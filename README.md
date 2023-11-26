@@ -11,3 +11,5 @@
 ## 5 - Find Max Number
 
 ## 6 - Title Case
+
+## 7 - Reverse String
