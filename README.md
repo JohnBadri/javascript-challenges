@@ -7,3 +7,5 @@
 ## 3 - Simple Calculator
 
 ## 4 - Count Occurences
+
+## 5 - Find Max Number
