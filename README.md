@@ -13,3 +13,5 @@
 ## 6 - Title Case
 
 ## 7 - Reverse String
+
+## 8 - Palindrome
