@@ -17,3 +17,5 @@
 ## 8 - Palindrome
 
 ## 9 - Count Vowels
+
+## 10 - Remove Duplicates
