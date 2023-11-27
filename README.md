@@ -31,3 +31,5 @@
 ## 15 - Find Missing Letter
 
 ## 16 - Is Characters Unique
+
+## 17 - Find First Non-Repeating Character
