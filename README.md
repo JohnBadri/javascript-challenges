@@ -29,3 +29,5 @@
 ## 14 - Find Missing Number
 
 ## 15 - Find Missing Letter
+
+## 16 - Is Characters Unique
