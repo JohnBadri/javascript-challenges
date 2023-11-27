@@ -21,3 +21,5 @@
 ## 10 - Remove Duplicates
 
 ## 11 - FizzBuzz Array
+
+## 12 - Array Intersection
