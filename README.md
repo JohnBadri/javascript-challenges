@@ -15,3 +15,5 @@
 ## 7 - Reverse String
 
 ## 8 - Palindrome
+
+## 9 - Count Vowels
