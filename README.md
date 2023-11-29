@@ -40,4 +40,6 @@
 
 ## 20 - Validate Email
 
-# 21 - Sum Of Even Squares
+## 21 - Sum Of Even Squares
+
+## 22 - Calculate Total Sales
