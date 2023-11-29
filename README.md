@@ -48,6 +48,8 @@
 
 ## 24 - Valid Anagrams
 
-## - Hashtag Generator
+## 25 - Hashtag Generator
 
-## - IPv4 Validator
+## 26 - IPv4 Validator
+
+## 27 - Car Mileage Analysis
