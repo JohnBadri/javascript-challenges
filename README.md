@@ -45,3 +45,5 @@
 ## 22 - Calculate Total Sales
 
 ## 23 - Highest Scoring Word
+
+## 24 - Valid Anagrams
