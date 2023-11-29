@@ -20,7 +20,7 @@ function calcCar(carArr) {
     }
   });
 
-  return `Average mileage is ${average}\nTotal mileage is ${totalMilage}\nCar with minimum mileage is ${minCar}\nCar with maximum mileage is ${maxCar}`;
+  return `Average mileage is ${average}\nTotal mileage is ${totalMilage}\n${minCar}\n${maxCar}`;
 }
 
 console.log(
