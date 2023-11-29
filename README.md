@@ -37,3 +37,5 @@
 ## 18 - Dice Game Simulation
 
 ## 19 - Format Phone Number
+
+## 20 - Validate Email
