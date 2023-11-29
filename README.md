@@ -43,3 +43,5 @@
 ## 21 - Sum Of Even Squares
 
 ## 22 - Calculate Total Sales
+
+## 23 - Highest Scoring Word
