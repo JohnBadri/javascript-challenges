@@ -1,4 +1,7 @@
 function hashtagGenerator(str) {
+  if (str === '' || str.length > 140) {
+    return false;
+  }
   const wordArr = [];
 
   str.split(' ').forEach((item) => {
@@ -8,4 +11,4 @@ function hashtagGenerator(str) {
   return `#${wordArr.join('')}`;
 }
 
-console.log(hashtagGenerator('Javascript is awesome'));
+console.log(hashtagGenerator(''));
