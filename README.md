@@ -61,3 +61,5 @@
 ## 30 - Fibonacci Sequence Recursion
 
 ## 31 - Factorial Recursion
+
+## 32 - Power Recursion
