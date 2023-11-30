@@ -59,3 +59,5 @@
 ## 29 - Reverse String Recursion
 
 ## 30 - Fibonacci Sequence Recursion
+
+## 31 - Factorial Recursion
