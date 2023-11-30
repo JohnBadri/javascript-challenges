@@ -63,3 +63,5 @@
 ## 31 - Factorial Recursion
 
 ## 32 - Power Recursion
+
+## 33 - Sum Array Recursion
